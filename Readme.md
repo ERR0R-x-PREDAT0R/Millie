@@ -44,7 +44,7 @@ Project created by <a href="https://github.com/ERR0R-x-PREDAT0R">ALINSHAN</a>
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Millie-x)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ALINSHAN/Toxic-Alexa)
 
 ## `DEPLOY`
 
