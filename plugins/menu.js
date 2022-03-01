@@ -6,7 +6,7 @@ let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 const defaultMenu = {
   before: `╭────────────────╮
-|             ✪  *ᴍɪʟʟɪᴇ* ✪           |
+|             ✪  *ᴛᴏxɪᴄ ᴀʟᴇxᴀ* ✪           |
 ╰────────────────╯
        
 
@@ -15,8 +15,8 @@ const defaultMenu = {
   body: '├ %cmd',
   footer: '└────\n',
   after: `
-   ᴹᴵᴸᴸᴵᴱ
-   ᴹᴼᴰᵁᴸᴬᴿ ᵂᴴᴬᵀᔆᴬᴾᴾ ᴮᴼᵀ
+   ᴛᴏxɪᴄ ᴀʟᴇxᴀ
+   ᵂᴴᴬᵀᔆᴬᴾᴾ ᴮᴼᵀ
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
@@ -167,8 +167,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ╭━━━━━━ᆫ ᴍᴇɴᴜ ᄀ━━━━━━
 ┃ ⎆  Oi ${ucapan()}
 ┃ ⎆  *NAME* : ${name}
-┃ ⎆  *BOT*   : ᴍɪʟʟɪᴇ
-┃ ⎆  *OWNER* :  ɴᴇᴇʀᴀᴊ
+┃ ⎆  *BOT*   : ᴛᴏxɪᴄ ᴀʟᴇxᴀ
+┃ ⎆  *OWNER* : ᴀʟɪɴsʜᴀɴ
 ┃ ⎆  *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
 ┃ ⎆  *WEEK* : ${week},
 ┃ ⎆  *DATE* : ${date},
@@ -182,8 +182,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `ᴍɪʟʟɪᴇ`,
-                  "description": "ᴍɪʟʟɪᴇ git link",
+                  "title": `ᴛᴏxɪᴄ ᴀʟᴇxᴀ`,
+                  "description": "ᴛᴏxɪᴄ ᴀʟᴇxᴀ git link",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
@@ -350,7 +350,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/Neeraj-x0/Millie/main/Millie/mills.jpeg")).buffer(), text.trim(), '© ᴍɪʟʟɪᴇ ©', 'Owner Bot', '.owner', 'All Commands', '.listt', m)
+    await conn.send2ButtonLoc(m.chat, await (await fetch("https://www.linkpicture.com/q/Toxic-Alexa.jpg")).buffer(), text.trim(), '© ᴛᴏxɪᴄ ᴀʟᴇxᴀ ©', 'Owner Bot', '.owner', 'All Commands', '.listt', m)
   } catch (e) {
     conn.reply(m.chat, 'Sorry, Try Again', m)
     throw e
