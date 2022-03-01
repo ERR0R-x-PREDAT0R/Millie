@@ -19,8 +19,8 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
-- SESSION           [`Click Here`](https://github.com/Neeraj-x0/Millie/blob/main/session.data.json#L1)
+- OWNER NUMBER         [`CLICK HERE`](https://github.com/ERR0R-x-PREDAT0R/Millie/blob/main/config.js#L2)
+- SESSION           [`Click Here`](https://github.com/ERR0R-x-PREDAT0R/Millie/blob/main/session.data.json#L1)
 
 
 ## `SCAN QR`
@@ -29,7 +29,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Millie)
 
 
 ## `CHANGE DYNO`
@@ -41,13 +41,25 @@
 </p>
 ----------
 
+----------
+
+<div align="center">
+<br>
+       
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERR0R-x-PREDAT0R&repo=Toxic-Alexa&theme=nightowl)](https://github.com/ERR0R-x-PREDAT0R/Toxic-Alexa)
+  </div>
+  
+----------
 ## Developers
   <div align="center">
     
-  [![I_AM_DEVIL](https://telegra.ph/file/fb0b36ed9cdcf93b24df7.jpg?size=25)](https://github.com/D-3-V-1-L) |  [![Neeraj](https://telegra.ph/file/74e9659166febabb45aa0.jpg?size=100)](https://github.com/Neeraj-x0) | [![Ajmal-Achu](https://telegra.ph/file/fa920b55caaa8e8be6f04.jpg?size=100)](https://github.com/Ajmal-Achu) 
-----|----|----
-[I_AM_DEVIL](https://github.com/D-3-V-1-L)  | [Neeraj](https://github.com/Neeraj-x0) | [Ajmal-Achu](https://github.com/Ajmal-Achu)
-Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
+  [![ERR0R-x-PREDAT0R](https://github.com/ERR0R-x-PREDAT0R.png?size=275)](https://github.com/ERR0R-x-PREDAT0R) |  
+----|
+[ALINSHAN](https://github.com/ERR0R-x-PREDAT0R)  |  
+Base, Bug Fixes, Modules  | 
   </div>
-                                  
-  </div
+    
+----------
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
